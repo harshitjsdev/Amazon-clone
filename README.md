@@ -1,5 +1,6 @@
 A high-fidelity Amazon Homepage Clone developed to demonstrate advanced front-end layout techniques.
 This project focuses on replicating the complex UI/UX of a major e-commerce platform using clean, semantic code. 
+
 ✨ Key Features-
 Dynamic Navigation Bar, a "Deliver to India" location selector, and a multi-category search bar.
 Interactive UI Elements: Includes stylized dropdown menus for language and department selection, and FontAwesome icons for a realistic look.
